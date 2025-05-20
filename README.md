@@ -9,7 +9,6 @@ The model was trained on the publicly available NIH chest X-ray dataset and perf
 ## Files
 
 - `pneumonia_classifier.ipynb`: Jupyter Notebook containing model training, evaluation, and test predictions
-- `pneumonia_classifier.h5`: Saved Keras model
 - Sample predictions: In-notebook visualizations of random test images with predicted and true labels
 
 ---
